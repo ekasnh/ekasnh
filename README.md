@@ -53,8 +53,9 @@ I'm an undergrad from NMIMS University. Passionate about Web development, Data s
 </table>
 
 <hr>
+<h3>Snake eating my contribution!! 😐😐</h3>
 <p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ekasnh/ekasnh/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <!---
