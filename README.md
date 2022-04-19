@@ -1,9 +1,17 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif) 
 # <a href="https://www.linkedin.com/in/ekansh-agarwal-aa38b718b/">Ekansh Agarwal</a> 🙏:
 
-## About :: ![](https://komarev.com/ghpvc/?username=ekasnh&label=PROFILE+VIEWS)
-   B.E. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development with flutter and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
-   
+## Hi there 👋 :: ![](https://komarev.com/ghpvc/?username=ekasnh&label=PROFILE+VIEWS)
+I'm an undergrad from NMIMS University. Passionate about Web development, Data science, Data-Analysis and open source. Also, have some experience in Android Development and IOS Development.
+
+- 👨‍💻 I'm some sort of a full-stack developer? If [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) description makes me a full-stack developer.
+- 🌱 I work a lot with Javascript especially with NodeJS and I'm afraid for languages such as C++ and PHP(still haunts me in my nightmares)
+- 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
+- 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
+- 📫 I do write blog posts and my very keen towards research check below for my research work.
+- ❓ Want to know more about me? You can always contact me via serval social medias! or visit my website
+- 🙌Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,8 +22,7 @@
 <a href="https://argston9090.medium.com/" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://hihello.me/p/85e32088-9be7-4aeb-8364-8df0ff4ecc5f" target="blank"><img src="https://img.icons8.com/plasticine/50/000000/show-permit-card.png"/></a>
 </p>
-
-
+<h3>or 📧: ekansh237@gmail.com </h3>
 <hr>
 <h3 align="left">Language and Tools:</h3>
 <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
