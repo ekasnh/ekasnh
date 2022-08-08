@@ -11,6 +11,7 @@ I'm an undergrad from NMIMS University. Passionate about Web development, Data s
 - 📫 I do write blog posts and my very keen towards research check below for my research work.
 - ❓ Want to know more about me? You can always contact me via serval social medias! or visit my website
 - 🙌Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
+- have a meeting scheduled on [bookings](https://cal.com/ekansh-agarwal-01)
 
 <hr>
 <h3 align="left">Connect with me:</h3>
