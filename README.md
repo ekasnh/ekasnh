@@ -13,6 +13,15 @@ I'm an undergrad from NMIMS University. Passionate about Web development, Data s
 - 🙌Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
 - have a meeting scheduled on [bookings](https://cal.com/ekansh-agarwal-01)
 
+MY CLI card
+```zsh
+npx argston
+```
+or 
+```zsh
+pnpx argston@latest
+```
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
