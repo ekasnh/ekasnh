@@ -8,8 +8,9 @@ I'm an undergrad from NMIMS University. Passionate about Web development, Data s
 - 🌱 I work a lot with Javascript especially with NodeJS and I'm afraid for languages such as C++ and PHP(still haunts me in my nightmares)
 - 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
 - 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
-- 📫 I do write blog posts and my very keen towards research check below for my research work.
+- 📫 I do write blog posts and I am very keen towards research check this link for my [research work](https://ekanshagarwalresearchportfolio.framer.website/).
 - ❓ Want to know more about me? You can always contact me via serval social medias! or visit my website
+- I support efficient communication by getting straight to the point. Learn more: [NoHello Club](https://www.nohello.com/)
 - 🙌Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
 - have a meeting scheduled on [bookings](https://cal.com/ekansh-agarwal-01)
 
