@@ -65,10 +65,7 @@ pnpx argston@latest
 </table>
 
 <hr>
-<h3>Snake eating my contribution!! 😐😐</h3>
-<p align="center">
-  <img src="https://github.com/ekasnh/ekasnh/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 
 <!---
 ekasnh/ekasnh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
