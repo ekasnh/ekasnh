@@ -50,6 +50,7 @@ pnpx argston@latest
   <tr>
     <td align="center">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=ekasnh&show_icons=true&theme=dracula" />
+      [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
     </td>
     <td align="center">
       <a href="https://ekasnh.github.io/Portfolio_Website/">
@@ -64,7 +65,7 @@ pnpx argston@latest
   </tr>
 </table>
 
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
+
 
 
 
