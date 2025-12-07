@@ -64,7 +64,8 @@ pnpx argston@latest
   </tr>
 </table>
 
-<hr>
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
+
 
 
 <!---
