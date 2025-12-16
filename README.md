@@ -13,7 +13,7 @@ I'm an undergrad from NMIMS University. Passionate about Web development, Data s
 - I support efficient communication by getting straight to the point. Learn more: [NoHello Club](https://www.nohello.com/)
 - I share step-by-step guides on [Instructables](https://www.instructables.com/member/EkanshAgarwal01/instructables/), including projects like automating greenhouse exhaust systems and smart irrigation setups.
 - 🙌Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
-- have a meeting scheduled on [bookings](https://cal.com/ekansh-agarwal-01)
+- have a meeting scheduled on [bookings](https://calendar.app.google/cmevDh87pY4D5mbv6)
 
 My CLI CARD
 ```zsh
