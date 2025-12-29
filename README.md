@@ -34,7 +34,7 @@ pnpx argston@latest
 <a href="https://argston9090.medium.com/" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://hihello.me/p/85e32088-9be7-4aeb-8364-8df0ff4ecc5f" target="blank"><img src="https://img.icons8.com/plasticine/50/000000/show-permit-card.png"/></a>
 </p>
-<h3>or 📧: ekansh237@gmail.com </h3>
+<h3>or 📧: contactekansh@ekanshagarwal.co.in </h3>
 <hr>
 <h3 align="left">Language and Tools:</h3>
 <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
