@@ -49,7 +49,7 @@ pnpx argston@latest
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg" alt="moon.svg"></a>
+      <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=360" alt="moon.svg"></a>
     </td>
     <td align="center">
       <a href="https://www.ekanshagarwal.co.in/">
