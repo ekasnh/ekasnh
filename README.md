@@ -1,5 +1,5 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif) 
-# <a href="https://www.linkedin.com/in/ekansh-agarwal-aa38b718b/">Ekansh Agarwal</a> 🙏:
+# <a href="https://www.linkedin.com/in/ekansh-agarwal-aa38b718b/">Ekansh Agarwal</a> 🙏: ![](https://img.shields.io/badge/github-repo-blue?logo=github)
 
 ## Hi there 👋 :: ![](https://komarev.com/ghpvc/?username=ekasnh&label=PROFILE+VIEWS)
 I'm an undergrad from NMIMS University. Passionate about Web development, Data science, Data-Analysis and open source. Also, have some experience in Android Development and IOS Development.
