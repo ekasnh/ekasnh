@@ -1,7 +1,7 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif) 
 # <a href="https://www.linkedin.com/in/ekansh-agarwal-aa38b718b/">Ekansh Agarwal</a> 🙏: ![](https://img.shields.io/badge/github-repo-blue?logo=github)
 
-## Hi there 👋 :: ![](https://komarev.com/ghpvc/?username=ekasnh&label=PROFILE+VIEWS)
+## Hi there 👋 
 I'm an undergrad from NMIMS University. Passionate about Web development, Data science, Data-Analysis and open source. Also, have some experience in Android Development and IOS Development.
 
 - 👨‍💻 I'm some sort of a full-stack developer? If [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) description makes me a full-stack developer.
@@ -15,7 +15,7 @@ I'm an undergrad from NMIMS University. Passionate about Web development, Data s
 - 🙌Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
 - have a meeting scheduled on [bookings](https://calendar.app.google/cmevDh87pY4D5mbv6)
 
-My CLI CARD
+My CLI CARD :: ![](https://komarev.com/ghpvc/?username=ekasnh&label=PROFILE+VIEWS)
 ```zsh
 npx argston
 ```
