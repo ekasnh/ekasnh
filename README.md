@@ -34,7 +34,7 @@ pnpx argston@latest
 <a href="https://argston9090.medium.com/" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://hihello.me/p/85e32088-9be7-4aeb-8364-8df0ff4ecc5f" target="blank"><img src="https://img.icons8.com/plasticine/50/000000/show-permit-card.png"/></a>
 </p>
-<h3>or 📧: contactekansh@ekanshagarwal.co.in </h3>
+<h3>or 📧: hello@ekanshagarwal.co.in </h3>
 <hr>
 <h3 align="left">Language and Tools:</h3>
 <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
@@ -52,7 +52,7 @@ pnpx argston@latest
       <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg" alt="moon.svg"></a>
     </td>
     <td align="center">
-      <a href="https://ekasnh.github.io/Portfolio_Website/">
+      <a href="https://www.ekanshagarwal.co.in/">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
