@@ -49,17 +49,15 @@ pnpx argston@latest
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <a href="https://moon-svg.minung.dev"><img src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=360" alt="moon.svg"></a>
+      <a href="https://www.ekanshagarwal.co.in/"><img src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=360" alt="moon.svg"></a>
     </td>
     <td align="center">
-      <a href="https://www.ekanshagarwal.co.in/">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
+        <a href="https://dday-widget.minung.dev">
+          <img src="https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2028-11-01&startDate=2023-01-01&theme=theme2" alt="dday-widget.svg" /></a>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <br>
-        <strong>Visit my personal website </strong>
     </td>
   </tr>
 </table>
