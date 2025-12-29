@@ -30,7 +30,7 @@ pnpx argston@latest
 <a href="https://twitter.com/ekansh78475120" target="blank"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"></a> &nbsp;&nbsp;&nbsp;
 <a href= "https://www.facebook.com/" target = "blank"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ekansh-agarwal-aa38b718b/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.researchgate.net/profile/Ekansh-Agarwal-3" target="blank"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-research-market-research-flaticons-lineal-color-flat-icons-6.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/hbjjhvggv" target="blank"><img src="https://img.icons8.com/bubbles/50/kaggle.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://argston9090.medium.com/" target="blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://hihello.me/p/85e32088-9be7-4aeb-8364-8df0ff4ecc5f" target="blank"><img src="https://img.icons8.com/plasticine/50/000000/show-permit-card.png"/></a>
 </p>
